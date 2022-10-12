@@ -44,4 +44,4 @@ if a == 3 :
 
 #elif a == 4:
 
-print("Jums izmaksās",gs,"Eur")
+print("Jums izmaksās",gs,"Eur.")
