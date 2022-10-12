@@ -21,7 +21,7 @@ def krekli(skaits,apdruka,piegade):
 
 #skaits = int(input("Ievadiet kreklu skaitu:"))
 #apdruka = int(input("Ievadi apdrukas veidu (1-teksts I 2-zime I 3-foto):"))
-#piegade = int(input("piegādi vajag(1) vai ne(2):"))
+#piegade = int(input("piegādi vajag(4) vai ne(5):"))
     
 
 #krekli(skaits,apdruka,piegade)
