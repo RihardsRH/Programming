@@ -15,7 +15,7 @@ a2 = ["Par palīgiem izvēlieties cilvēkus, kuri ir jums uzticami.","Esiet izl�
 a3 = ["ap31","ap32","ap33","ap34","ap35","ap36","ap37","ap38","ap39","ap310","ap311","ap312"]
 r1 = ["ri1","ri2","ri3","ri4","ri5","ri6","ri7","ri8","ri9","ri10","ri11","ri12"]
 for i in range(len(horoskopi)):
-    print(horoskopi[i],"\n")
+    print("Jūsu horoskops",horoskopi[i],"šodien prognozē.","\n")
     aa1 = random.choice(a1)
     print(aa1)
     a1.remove(aa1)
